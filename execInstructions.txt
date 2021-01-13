@@ -1,0 +1,9 @@
+Christopher Valerio
+
+No extra steps required to install/execute program, just need to compile and execute 
+
+TO COMPILE: javac *.java
+
+TO EXECUTE: 
+	My Specific Example (Please see "User Manual" for information on all command line system flags)
+		-java SearchEngine -CorpusDir C:\Users\Christopher\eclipse-workspace\CS335_Projects\Prj1\Corpus -InvertedIndex indexFileOutput.txt -StopList stoplist.txt -Queries QueryFile.txt -Results ResultsFile.txt -Snippet 3 -Stem true -Output both
